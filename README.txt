@@ -1,0 +1,4 @@
+- download chromedriver.exe
+- run chromedriver.exe
+- run main class com.blog10_99.selenium.TestNetworkLog
+- find network logs under <PROJECT-FOLDER>/network.log as json formatter output.
